@@ -1,0 +1,12 @@
+export(dmnorm,estim,mmeln,post,entropy)
+S3method(anova , mmeln)
+S3method(logLik, mmeln)
+S3method(estim , mmeln)
+S3method(print , mmeln)
+S3method(plot  , mmeln)
+S3method(entropy,mmeln)
+S3method(print , mmelnSOL)
+S3method(post  , mmeln)
+importFrom("graphics", "matplot", "mtext", "par")
+importFrom("stats", "logLik", "model.matrix", "na.action",
+           "na.exclude", "pchisq", "pnorm", "rnorm", "var")
