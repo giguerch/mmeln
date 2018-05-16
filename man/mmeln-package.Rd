@@ -2,22 +2,20 @@
 \name{mmeln-package}
 \alias{mmeln.package}
 \docType{package}
-\title{Mixture of multivariate normal}
-\description{This package fits mixture of multivariate normal. Different types of covariance structure can be used.}
+\title{\packageTitle{mmeln}}
+\description{\packageDescription{mmeln}}
 \details{
-\tabular{ll}{
-Package: \tab MMELN\cr
-Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2010-10-22\cr
-License: \tab GPL (>= 2)\cr
-LazyLoad: \tab yes\cr
-}
+
+The DESCRIPTION file:
+\packageDESCRIPTION{mmeln}
+\packageIndices{mmeln}
+~~ An overview of how to use the package, including the most important ~~
+~~ functions ~~
 }
 \author{
-Charles-\enc{Édouard}{Edouard} \enc{Giguère}{Giguere}
+\packageAuthor{mmeln}
 
-Maintainer: Charles-\enc{Édouard}{Edouard} \enc{Giguère}{Giguere} <ce.giguere@umontreal.ca>
+Maintainer: \packageMaintainer{mmeln}
 }
 \keyword{ package }
 \seealso{mmeln,estim.mmeln,anova.mmeln}
