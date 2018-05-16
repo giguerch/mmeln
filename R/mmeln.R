@@ -23,11 +23,11 @@ mmeln <- function(Y, G = 2, p = dim(Y)[2]
   
   ### Le data.frame est converti en matrice. 
   if(is.data.frame(Y)){
-    objet$Y = as.matrix(Y)
+    Y = as.matrix(Y)
   }
-  else{
-    objet$Y = Y
-  }
+  
+  objet$Y = Y
+  
   
   objet$G = G
   objet$p = p
