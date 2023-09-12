@@ -1,6 +1,7 @@
 \encoding{latin1}
 \name{mmeln-package}
 \alias{mmeln.package}
+\alias{mmeln-package}
 \docType{package}
 \title{\packageTitle{mmeln}}
 \description{\packageDescription{mmeln}}
