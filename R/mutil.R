@@ -11,9 +11,9 @@
 
 dmnorm=function(X,Mu,Sigma)
 {
-    if(class(X)=="data.frame")
+    if(is.data.frame(X))
     {
-        X=matrix(X)
+        X = matrix(X)
     }
     p=numeric(1)
     if( (is.vector(X) || (is.matrix(X) && dim(X)[1]==1) )

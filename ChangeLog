@@ -1,3 +1,5 @@
+2019-12-17 Charles-Edouard Giguere <ce.giguere@gmail.com>
+	* Corrected some matrix issue related to a change in R.
 2018-05-16 Charles-Edouard Giguere <ce.giguere@gmail.com>
 	* Corrected some documentation issues.
 	* Corrected some issue with Y argument passed as data.frame.
