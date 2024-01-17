@@ -2,6 +2,13 @@
 title: Estimation of multinormal mixture in R.
 author: Charles-Edouard Giguere
 ---
+<!-- badges: start -->
+[![Build Status](https://api.travis-ci.com/mmeln/mmeln.svg?branch=master)](https://app.travis-ci.com/github/mmeln/mmeln)
+[![Codecov test coverage](https://codecov.io/gh/mmeln/OpenMx/branch/master/graph/badge.svg)](https://app.codecov.io/gh/mmeln/Ommeln?branch=master)
+[![cran version](http://www.r-pkg.org/badges/version/mmeln)](https://cran.r-project.org/package=mmeln)
+[![Monthly Downloads](https://cranlogs.r-pkg.org/badges/mmeln)](https://cranlogs.r-pkg.org/badges/mmeln)
+[![Total Downloads](https://cranlogs.r-pkg.org/badges/grand-total/mmeln)](https://cranlogs.r-pkg.org/badges/grand-total/mmeln)
+<!-- badges: end -->
 
 # This package serves to estimate multinormal mixture in R. 
 
